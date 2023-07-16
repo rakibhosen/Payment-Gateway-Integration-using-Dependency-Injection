@@ -1,0 +1,17 @@
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\PracProject\OOP\DependencyInjection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+E:\PracProject\OOP\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
